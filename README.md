@@ -10,5 +10,5 @@ logrus.SetFormatter(&logrus.JSONFormatter{})
 ```
 输出
 ```yaml
-   {"level":"info","msg":"I am info","name":"test","namespace":"kube-system","time":"2021-08-06T16:51:11+08:00"}
+{"level":"info","msg":"I am info","name":"test","namespace":"kube-system","time":"2021-08-06T16:51:11+08:00"}
 ```
